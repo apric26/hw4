@@ -1,0 +1,55 @@
+#jumbo1{
+color: white;
+background-image: url("http://campus.lawdragon.com/wp-content/uploads/2017/04/NW_2128.jpg");
+background-size: cover;
+padding-top: 70px ;
+padding-bottom: 70px;
+
+}
+
+.card-header{
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+font-family: arial;
+}
+
+#sportsImage{
+  height: 50%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+#newsImage{
+  height: 50%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.snoopy{
+  padding-top: 70px;
+
+}
+
+.caption{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: arial;
+  padding-left: 10px;
+}
+
+.card-title{
+  padding-top: 30px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.card-text{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
